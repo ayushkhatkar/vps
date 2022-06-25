@@ -4,8 +4,8 @@ Quick script to install all the required tools over a VPS (tested on DEBIAN). It
 
 
 #install
-```git clone the repo```
-```cd vps/ then ```
-```chomd +x tools.sh ```
-```./tool.sh```
+`git clone the repo`
+`cd vps/ then `
+`chomd +x tools.sh `
+`./tool.sh`
 If you face any issues for installation, please reach out to me at Twitter @ayush0x01
