@@ -1,8 +1,8 @@
 #!/bin/bash
 
 apt update && apt upgrade;
-wget https://go.dev/dl/go1.19.2.linux-amd64.tar.gz;
-sudo tar -xvf go1.19.2.linux-amd64.tar.gz;
+wget https://go.dev/dl/go1.26.1.linux-amd64.tar.gz;
+sudo tar -xvf go1.26.1.linux-amd64.tar.gz;
 sudo mv go /usr/local;
 export GOROOT=/usr/local/go;
 export GOPATH=$HOME/go;
